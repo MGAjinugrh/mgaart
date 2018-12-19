@@ -1,0 +1,21 @@
+/* Your custom css code goes here */
+.probootstrap-main-nav li a {
+    color: #7f8c8d;
+}
+
+.probootstrap-main-nav li.active a {
+    color: #2c3e50;
+}
+
+.probootstrap-main-nav li a:hover {
+    color: #22eaaa;
+}
+
+.probootstrap-main-nav li.active a:hover {
+    color: #22eaaa;
+}
+.btn.btn-primary {
+    border: 2px solid #2c3e50;
+    background: #2c3e50;
+    color: #fff;
+}
